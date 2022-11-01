@@ -1,0 +1,7 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
+title: [Final-app]
+description: [by Weihao Jiang and Shuaipeng Liu]
+show_downloads: ["true"]
