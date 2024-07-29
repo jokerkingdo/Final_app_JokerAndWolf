@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 
-plt.style.use('seaborn')
 
 # read the dataset
 df_songs = pd.read_csv('top10s.csv')
